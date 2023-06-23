@@ -30,6 +30,10 @@ body {
     display: none;
 }
 
+.main {
+    margin-top: 5rem;
+}
+
 @media screen and (max-width: 480px) {
     .header {
         display: flex;
